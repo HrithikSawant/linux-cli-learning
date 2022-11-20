@@ -1,5 +1,3 @@
-# Untitled
-
 ```bash
 # print only first three lines of animal.txt
 head -n3 animal.txt
