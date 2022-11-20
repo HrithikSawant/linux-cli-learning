@@ -14,5 +14,7 @@ oryx	Writing Word Macros	1999	Roman, Steven
 
 # print lines that containes the string Perl in files with names ending in .txt
 grep Perl *.txt
-
+animal.txt:alpaca	Intermediate Perl	2012	Schwartz, Randal
+essay.txt:really love the Perl programming language,
+file1.txt:language such as Perl, Python, PHP and Ruby
 ```
